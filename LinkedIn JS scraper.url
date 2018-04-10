@@ -1,0 +1,21 @@
+[DEFAULT]
+BASEURL=https://www.linkedin.com/search/results/people/?facetConnectionOf=%5B%22ACoAAALIqx8B1oIHWYWSDF31GdaZhwLKtupjKMg%22%5D&facetGeoRegion=%5B%22us%3A348%22%5D&facetNetwork=%5B%22F%22%2C%22S%22%5D&origin=FACETED_SEARCH
+[DOC#617]
+BASEURL=https://www.linkedin.com/csp/dtag?sz=1x1&ti=1&p=1&c=1&z=search_people&pk=d_flagship3_search_srp_people&pz=H
+ORIGURL=about:blank
+[DOC#973]
+BASEURL=https://www.linkedin.com/csp/dtag?sz=496x80&ti=1&p=1&c=1&z=search_people&pk=d_flagship3_search_srp_people&pz=F
+ORIGURL=about:blank
+[DOC#989]
+BASEURL=https://www.linkedin.com/csp/dtag?sz=300x250&ti=1&p=1&c=1&z=search_people&pk=d_flagship3_search_srp_people&pz=BR
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,15
+[InternetShortcut]
+IDList=
+URL=javascript:{var connectionNames = document.getElementsByClassName("name actor-name"); var connectionJobs = document.getElementsByClassName("subline-level-1");for (var c = 0; c < connectionNames.length; ++c) {console.log(connectionNames[c].innerHTML, connectionJobs[c].innerHTML)}}
+IconFile=https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca
+IconIndex=1
+HotKey=0
+[Bookmarklet]
+ExtendedURL=javascript:{var connectionNames = document.getElementsByClassName("name actor-name"); var connectionJobs = document.getElementsByClassName("subline-level-1");for (var c = 0; c < connectionNames.length; ++c) {console.log(connectionNames[c].innerHTML, connectionJobs[c].innerHTML)}}
