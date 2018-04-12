@@ -1,3 +1,5 @@
+// DON'T FORGET TO SWITCH TO DEV BRANCH FOR DEVELOPMENT!!! 
+
 // Get the lists of elements in the name and subline classes
 var connectionNames = document.getElementsByClassName("name actor-name");
 var connectionJobs = document.getElementsByClassName("subline-level-1");
@@ -20,3 +22,5 @@ var connectionNames = document.getElementsByClassName("name actor-name"); var co
 
 
 */
+
+// DON'T FORGET TO SWITCH TO DEV BRANCH FOR DEVELOPMENT!!! 
